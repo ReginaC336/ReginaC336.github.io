@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Regina Calloway, PhD
 
-You can use the [editor on GitHub](https://github.com/ReginaC336/ReginaC336.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I am Regina Calloway, a cognitive psychologist with 11 years of experince researching learning, memory, and language processing. I measure and assess elements of human cognition and ways to modulate cognitive functions via **neuromodualation** and behavioral interventions. I have a passion for expanding our knowledge of how the **human brain** works to benefit members of society. I am currently a Postoctoral Research Fellow at the University of Maryland (T32 National Institutes for Health Training Grant from the Center of the Evlutionary Biology of Hearing). 
 
 ### Markdown
 
