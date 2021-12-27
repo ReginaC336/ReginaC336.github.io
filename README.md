@@ -1,6 +1,6 @@
 ## Regina Calloway, PhD
 
-Hello! I am Regina Calloway, a cognitive psychologist with 11 years of experince researching learning, memory, and language processing. I measure and assess elements of human cognition and ways to modulate cognitive functions via **neuromodualation** and behavioral interventions. I have a passion for expanding our knowledge of how the **human brain** works to benefit members of society. I am currently a Postoctoral Research Fellow at the University of Maryland (T32 National Institutes for Health Training Grant from the Center of the Evlutionary Biology of Hearing). 
+Hello! I am Regina Calloway, a cognitive psychologist with 11 years of experince researching memory, leanring, cognitive effort, and language processing. I use behavioral and neuroimaging techniques to investigate the effects of **neuromodualation** and behavioral interventions on **human cognition**. I have a passion for expanding our knowledge of how the **human brain** works to benefit members of society. I am currently a Postoctoral Research Fellow at the University of Maryland (T32 National Institutes for Health Training Grant from the Center of the Evlutionary Biology of Hearing). 
 
 ### Markdown
 
